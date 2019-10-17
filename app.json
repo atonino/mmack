@@ -1,7 +1,7 @@
 {
-  "name": "Cool guy bot",
+  "name": "Mattress Mack",
   "description": "Basic Groupme Bot written in Node",
-  "repository": "https://github.com/petemcgrath/cool-guy-bot",
-  "logo": "http://www.tailgate365.com/wp-content/uploads/2011/06/tom-hanks-906.jpg",
+  "repository": "https://github.com/atonino/mmack",
+  "logo": "https://i.groupme.com/1696x1080.png.c2eb90d5e50c4be3a09aa49aef28ffc8",
   "keywords": []
 }
